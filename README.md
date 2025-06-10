@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Moinur Rahman
 
-<!--
-**Moinur2025/Moinur2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and data professional with a strong background in software development, data analytics, and cloud technologies. I enjoy building solutions that turn data into insights and ideas into applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### 💾 Databases
+- !Microsoft SQL Server  
+  Advanced SQL querying, stored procedures, and database design.
+
+- !MySQL  
+  Experience with relational databases and data manipulation.
+
+---
+
+### 📊 Data Analytics & BI
+- !Excel  
+  Expert in formulas, pivot tables, dashboards, and data modeling.
+
+- ![Tableau](https://ng interactive dashboards and visual analytics.
+
+- ![Power BI](https://img.shields.io/badge/-Power%20BIta visualization using DAX and Power Query.
+
+---
+
+### ☁️ Cloud & Programming
+- !Azure  
+  Cloud computing, data services, and deployment on Microsoft Azure.
+
+- !Python  
+  Data analysis, automation, and scripting with libraries like Pandas and NumPy.
+
+- !C#  
+  Object-oriented programming for desktop and web applications.
+
+- ![ASP.NET 
+  Web development using .NET framework and MVC architecture.
+
+- ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
+  Legacy application development and support.
+
+- !HTML5  
+  Structuring and designing web content.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn
+- 📧 Email: your.email@example.com
+
+---
+
+Thanks for visiting my profile! 🚀
