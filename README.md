@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data professional w
 ## 📫 Connect with Me
 
 - 💼 LinkedIn
-- 📧 Email: your.email@example.com
+- 📧 Email: moinur.career@gmail.com
 
 ---
 
