@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data professional w
 - !Microsoft SQL Server  
   Advanced SQL querying, stored procedures, and database design.
 
-- !MySQL  
+- 🐬!MySQL  
   Experience with relational databases and data manipulation.
 
 ---
